@@ -103,7 +103,7 @@ int main(void)
   {
 
   /* USER CODE END WHILE */
-		HAL_GPIO_WritePin(GPIOA, GPIO_PIN_5, GPIO_PIN_SET); // Turn on LED 2
+		HAL_GPIO_TogglePin(GPIOA, GPIO_PIN_5);
 
 		// Adding a comment
 
