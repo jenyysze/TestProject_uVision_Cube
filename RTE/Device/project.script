@@ -1,0 +1,4 @@
+load STM32F401RETx 
+project name STCubeGenerated 
+project toolchain "MDK-ARM V5" 
+project path "C:\Users\Jennifer\Documents\MECH 4\5. SUPERMILEAGE\Motor Controller Firmware\TestProject_uVision_Cube\RTE\Device\STM32F401RETx\" 
